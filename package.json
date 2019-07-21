@@ -2,7 +2,7 @@
   "name": "pizza-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Mr.Wu <309595700@qq.com>",
+  "author": "zf",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
